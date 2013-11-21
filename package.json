@@ -1,0 +1,16 @@
+{
+  "name": "node-kss-test",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "none",
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-kss": "~0.2.2",
+    "matchdep": "~0.3.0"
+  }
+}
